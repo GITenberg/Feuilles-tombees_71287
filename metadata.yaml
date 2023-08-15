@@ -1,5 +1,8 @@
 _repo: Feuilles-tombees_71287
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71287-h/images/cover.jpg
 creator:
   author:
     agent_name: Boylesve, René
@@ -26,6 +29,8 @@ creator:
     - https://en.wikipedia.org/wiki/Charles_Du_Bos
     - https://fr.wikipedia.org/wiki/Charles_Du_Bos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71287#Feuilles-tombees
 gutenberg_issued: '2023-07-28'
 identifiers:
   gutenberg: '71287'
